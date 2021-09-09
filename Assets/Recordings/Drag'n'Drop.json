@@ -1,0 +1,415 @@
+{
+    "entryScene": "SampleScene",
+    "recordingType": 0,
+    "recordedAspectRatio": {
+        "x": 803.0,
+        "y": 1474.0
+    },
+    "recordedResolution": {
+        "x": 2880.0,
+        "y": 1800.0
+    },
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 2.8022003173828127,
+            "position": {
+                "x": 0.16981132328510285,
+                "y": 0.6910377144813538
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.07698104530572891,
+                "y": 0.013962097465991974
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.07901763916015625,
+            "position": {
+                "x": 0.2012578547000885,
+                "y": 0.7311320900917053
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.09962265193462372,
+                "y": 0.0818869024515152
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 1.1596755981445313,
+            "position": {
+                "x": 0.6100628972053528,
+                "y": 0.7641509175300598
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.3753509521484375,
+            "position": {
+                "x": 0.6100628972053528,
+                "y": 0.7641509175300598
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.09962265193462372,
+                "y": 0.08188751339912415
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.07574462890625,
+            "position": {
+                "x": 0.5911949872970581,
+                "y": 0.7570754885673523
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.03169818967580795,
+                "y": 0.04792587459087372
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.4521636962890625,
+            "position": {
+                "x": 0.348008394241333,
+                "y": 0.6627358198165894
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.13147735595703126,
+            "position": {
+                "x": 0.348008394241333,
+                "y": 0.6627358198165894
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.031697846949100497,
+                "y": 0.04792480543255806
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.06859588623046875,
+            "position": {
+                "x": 0.37106919288635256,
+                "y": 0.661556601524353
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.11094314604997635,
+                "y": 0.03660430759191513
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.45160675048828127,
+            "position": {
+                "x": 0.6142557859420776,
+                "y": 0.6415094137191773
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.12851715087890626,
+            "position": {
+                "x": 0.6142557859420776,
+                "y": 0.6415094137191773
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.11094329506158829,
+                "y": 0.03660446032881737
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.04766845703125,
+            "position": {
+                "x": 0.6331236958503723,
+                "y": 0.6591981053352356
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15622620284557343,
+                "y": 0.11584991216659546
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.37676239013671877,
+            "position": {
+                "x": 0.8071278929710388,
+                "y": 0.8903301954269409
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.127685546875,
+            "position": {
+                "x": 0.8071278929710388,
+                "y": 0.8903301954269409
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.1562260389328003,
+                "y": 0.11584991216659546
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.0564117431640625,
+            "position": {
+                "x": 0.7148846983909607,
+                "y": 0.8903301954269409
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DragableObject",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15622596442699433,
+                "y": 0.11584991216659546
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.46768951416015627,
+            "position": {
+                "x": 0.28721174597740176,
+                "y": 0.8879716992378235
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.591278076171875,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}

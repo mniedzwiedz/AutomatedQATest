@@ -1,0 +1,565 @@
+{
+    "entryScene": "SampleScene",
+    "recordingType": 0,
+    "recordedAspectRatio": {
+        "x": 803.0,
+        "y": 1474.0
+    },
+    "recordedResolution": {
+        "x": 2880.0,
+        "y": 1800.0
+    },
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 4.1497344970703129,
+            "position": {
+                "x": 0.7106918096542358,
+                "y": 0.11556603759527207
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2266722321510315,
+                "y": -0.1159060150384903
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.062713623046875,
+            "position": {
+                "x": 0.7127882838249207,
+                "y": 0.12735849618911744
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.22887937724590302,
+                "y": -0.07220660150051117
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.5595245361328125,
+            "position": {
+                "x": 0.6876310110092163,
+                "y": 0.38561320304870608
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.02532958984375,
+            "position": {
+                "x": 0.6394129991531372,
+                "y": 0.07900943607091904
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15162943303585053,
+                "y": -0.2513739764690399
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.0593109130859375,
+            "position": {
+                "x": 0.6477987170219421,
+                "y": 0.09198113530874253
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.16045798361301423,
+                "y": -0.203304722905159
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.339324951171875,
+            "position": {
+                "x": 0.7064989805221558,
+                "y": 0.4033018946647644
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.1396331787109376,
+            "position": {
+                "x": 0.704402506351471,
+                "y": 0.2087264209985733
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.22005078196525575,
+                "y": 0.22931888699531556
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.1448822021484375,
+            "position": {
+                "x": 0.7023060917854309,
+                "y": 0.19575472176074983
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2178436815738678,
+                "y": 0.18124963343143464
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.29962158203125,
+            "position": {
+                "x": 0.7085953950881958,
+                "y": 0.03183962404727936
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.8403167724609375,
+            "position": {
+                "x": 0.7169811129570007,
+                "y": 0.18985849618911744
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.23329362273216248,
+                "y": 0.15939998626708985
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.14801025390625,
+            "position": {
+                "x": 0.7127882838249207,
+                "y": 0.1745283007621765
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.22887937724590302,
+                "y": 0.10259082168340683
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.3679351806640625,
+            "position": {
+                "x": 0.704402506351471,
+                "y": 0.07900943607091904
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.7998199462890625,
+            "position": {
+                "x": 0.6939203143119812,
+                "y": 0.2299528270959854
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.20901508629322053,
+                "y": 0.30797767639160159
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.0320281982421875,
+            "position": {
+                "x": 0.6897274851799011,
+                "y": 0.21108490228652955
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.20460085570812226,
+                "y": 0.2380586713552475
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.159515380859375,
+            "position": {
+                "x": 0.6666666865348816,
+                "y": -0.5424528121948242
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.009918212890625,
+            "position": {
+                "x": 0.6457023024559021,
+                "y": 0.0554245300590992
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15825088322162629,
+                "y": -0.33877256512641909
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.0589752197265625,
+            "position": {
+                "x": 0.6436058878898621,
+                "y": 0.08962263911962509
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.15604373812675477,
+                "y": -0.2120446264743805
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.12353515625,
+            "position": {
+                "x": 0.6436058878898621,
+                "y": 0.3879716992378235
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.144256591796875,
+            "position": {
+                "x": 0.6121593117713928,
+                "y": 0.2087264209985733
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.12293661385774613,
+                "y": 0.22931888699531556
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 4,
+            "timeDelta": 0.0556793212890625,
+            "position": {
+                "x": 0.5870020985603333,
+                "y": 0.060141511261463168
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "ScrollArea",
+            "objectTag": "Untagged",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.09645093977451325,
+                "y": -0.3212929964065552
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.092987060546875,
+            "position": {
+                "x": 0.7002096176147461,
+                "y": -0.7747641801834106
+            },
+            "positional": true,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.4913177490234376,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}

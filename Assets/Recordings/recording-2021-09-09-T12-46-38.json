@@ -1,0 +1,540 @@
+{
+    "entryScene": "SampleScene",
+    "recordingType": 0,
+    "recordedAspectRatio": {
+        "x": 803.0,
+        "y": 1472.0
+    },
+    "recordedResolution": {
+        "x": 2880.0,
+        "y": 1800.0
+    },
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.206221580505371,
+            "position": {
+                "x": 0.6008403301239014,
+                "y": 0.3888888955116272
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2498074471950531,
+                "y": -0.258636474609375
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.07416296005249024,
+            "position": {
+                "x": 0.598739504814148,
+                "y": 0.39007091522216799
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.24508056044578553,
+                "y": -0.2334267646074295
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.30129194259643557,
+            "position": {
+                "x": 0.5798319578170776,
+                "y": 0.35224586725234988
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.20253853499889375,
+                "y": 0.21540628373622895
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.06691217422485352,
+            "position": {
+                "x": 0.5777310729026794,
+                "y": 0.35224586725234988
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.197811558842659,
+                "y": 0.21540628373622895
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.5686163902282715,
+            "position": {
+                "x": 0.5630252361297607,
+                "y": 0.8286051750183106
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.1647234410047531,
+                "y": -0.02493082731962204
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.07517385482788086,
+            "position": {
+                "x": 0.5630252361297607,
+                "y": 0.8286051750183106
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.1647234410047531,
+                "y": -0.02493082731962204
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.7517929077148438,
+            "position": {
+                "x": 0.6092436909675598,
+                "y": 0.3510638177394867
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.26871490478515627,
+                "y": 0.19019609689712525
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0,
+            "position": {
+                "x": 0.6092436909675598,
+                "y": 0.3510638177394867
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.26871490478515627,
+                "y": 0.19019609689712525
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.1364445686340332,
+            "position": {
+                "x": 0.6155462265014648,
+                "y": 0.34278959035873415
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.28289565443992617,
+                "y": 0.01372544001787901
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0674581527709961,
+            "position": {
+                "x": 0.6155462265014648,
+                "y": 0.34278959035873415
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.28289565443992617,
+                "y": 0.01372544001787901
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.7360782623291016,
+            "position": {
+                "x": 0.5777310729026794,
+                "y": 0.817966878414154
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.19781160354614259,
+                "y": -0.2518215775489807
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.07177066802978516,
+            "position": {
+                "x": 0.575630247592926,
+                "y": 0.817966878414154
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.193084716796875,
+                "y": -0.2518215775489807
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 1.7247200012207032,
+            "position": {
+                "x": 0.5714285969734192,
+                "y": 0.3226950466632843
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.18363098800182343,
+                "y": -0.4148457944393158
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.06785297393798828,
+            "position": {
+                "x": 0.5714285969734192,
+                "y": 0.3226950466632843
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.18363098800182343,
+                "y": -0.4148457944393158
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.08875083923339844,
+            "position": {
+                "x": 0.5714285969734192,
+                "y": 0.3226950466632843
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.18363098800182343,
+                "y": -0.4148457944393158
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.06737995147705078,
+            "position": {
+                "x": 0.575630247592926,
+                "y": 0.33215129375457766
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "DecreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.193084716796875,
+                "y": -0.213165283203125
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.2327880859375,
+            "position": {
+                "x": 0.5861344337463379,
+                "y": 0.4030732810497284
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2167191505432129,
+                "y": 0.04388427734375
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.09486198425292969,
+            "position": {
+                "x": 0.5861344337463379,
+                "y": 0.4030732810497284
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2167191505432129,
+                "y": 0.04388427734375
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.020537376403808595,
+            "position": {
+                "x": 0.5861344337463379,
+                "y": 0.4030732810497284
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2167191505432129,
+                "y": 0.04388427734375
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.09140586853027344,
+            "position": {
+                "x": 0.5861344337463379,
+                "y": 0.4030732810497284
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "IncreaseButton",
+            "objectTag": "Player",
+            "objectHierarchy": "Canvas",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.2167191505432129,
+                "y": 0.04388427734375
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.4299726486206055,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "SampleScene",
+            "button": 0,
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "keyCode": "",
+            "inputText": "",
+            "inputDuration": 0.0,
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "querySelector": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}
